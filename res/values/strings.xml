@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">geosnaps</string>
+    <string name="ig_recent_by_location">/locations/%s/media/recent</string>
+    <string name="ig_location_search">/locations/search</string>
+    <string name="ig_access_token_name">access_token</string>
+    <string name="ig_param_lat">lat</string>
+    <string name="ig_param_lon">lng</string>
+    <string name="ig_id_tag">id</string>
+    <string name="ig_access_token">access_token</string>
+    <string name="getting_interesting_stuff_msg">Getting interesting stuff for you...</string>
+    <string name="please_wait_dialog_title">Please wait</string>
+    <string name="getting_pictures_dialog_text">Getting pictures</string>
+    <string name="location_settings_needed">Location Settings need to be enabled for this app. Would you like to enable location?</string>
+    <string name="enable_it">OK, go for it</string>
+    <string name="quit">I would rather quit</string>
+    <string name="enable_settings_title">Location Settings Needed</string>
+
+    <string name="no_pics_title">Oops! No pictures found</string>
+    <string name="ack_no_pics">Oh well, what can we do!</string>
+    <string name="ok_no_pics">Fine, go back</string>
+        
+    <!--title strings -->
+    <string name="birds_eye_activity_title">Locations</string>
+</resources>
